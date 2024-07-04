@@ -61,3 +61,54 @@
 
 
 
+
+# By gemini
+
+
+
+
+
+
+
+Hi Vikram Singh,
+
+I'm a highly motivated code explorer, passionate about bridging the gap between cloud infrastructure and data using algorithms. Adept in Python and Terraform, I'm constantly learning and building, with a keen interest in system design.
+
+**Current Focus:**
+
+* Honing my coding skills.
+* Deep-diving into Data Science, Cloud Computing, and expanding my tech stack.
+
+**Skills & Technologies:**
+
+* **Programming Languages:** Python (Expert), Java (Intermediate), C++ (Basic), TypeScript (Basic)
+* **Infrastructure & Cloud:** Terraform (Expert), Linux (Intermediate)
+* **Frameworks & Libraries:** Spring (Basic), React (Basic), Node.js (Basic)
+* **Version Control & Collaboration:** Git (Expert), GitHub (Expert)
+* **Markup & Styling:** HTML5 (Intermediate), CSS3 (Intermediate), JavaScript (Intermediate)
+
+**Interactive Badges & Stats:**
+
+* **GitHub Trophy:** [![trophy](https://github-profile-trophy.vercel.app/?username=vikramkumarsingh-0)](https://github.com/ryo-ma/github-profile-trophy)
+* **Streak Stats:** (Consider adding a streak stats badge if you're actively contributing to open source)
+
+**Connect with Me:**
+
+* Twitter: [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Vikramksingh_)  (Replace with your actual Twitter handle)
+* LinkedIn: [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/vikram-singh-9b559b153/)  (Replace with your actual LinkedIn profile URL)
+
+**Looking Forward to:**
+
+* Collaborating on interesting projects!
+* Learning from other developers!
+
+**  ** (Consider this a work in progress, always striving to improve!)
+
+
+
+
+
+
+
+
+

@@ -45,6 +45,7 @@
 <br />
 <br />
 
+**Connect with Me:**
 <a href="https://twitter.com/https://twitter.com/Vikramksingh_/">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
 </a>
@@ -56,7 +57,13 @@
 <br />
 <br />
 <br />
-🔭 I’m currently working on this page. 
+🔭 **Looking Forward to:**
+
+* Collaborating on interesting projects!
+* Learning from other developers!
+
+**  ** (Consider this a work in progress, always striving to improve!)
+
 
 
 
@@ -92,17 +99,9 @@ I'm a highly motivated code explorer, passionate about bridging the gap between 
 * **GitHub Trophy:** [![trophy](https://github-profile-trophy.vercel.app/?username=vikramkumarsingh-0)](https://github.com/ryo-ma/github-profile-trophy)
 * **Streak Stats:** (Consider adding a streak stats badge if you're actively contributing to open source)
 
-**Connect with Me:**
 
-* Twitter: [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg)](https://twitter.com/Vikramksingh_)  (Replace with your actual Twitter handle)
-* LinkedIn: [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/vikram-singh-9b559b153/)  (Replace with your actual LinkedIn profile URL)
 
-**Looking Forward to:**
 
-* Collaborating on interesting projects!
-* Learning from other developers!
-
-**  ** (Consider this a work in progress, always striving to improve!)
 
 
 

@@ -43,6 +43,7 @@ I'm a highly motivated code explorer, passionate about bridging the gap between 
 <br />
 <br />
 
+**Interactive Badges & Stats:**
 [![trophy](https://github-profile-trophy.vercel.app/?username=vikramkumarsingh-0)](https://github.com/ryo-ma/github-profile-trophy)
 
 
@@ -70,38 +71,12 @@ I'm a highly motivated code explorer, passionate about bridging the gap between 
 
 <br />
 <br />
-<br />
 🔭 **Looking Forward to:**
 
 * Collaborating on interesting projects!
 * Learning from other developers!
 
 **  ** (Consider this a work in progress, always striving to improve!)
-
-
-
-
-
-
-# By gemini
-
-
-
-
-
-
-
-
-
-**Interactive Badges & Stats:**
-
-* **GitHub Trophy:** [![trophy](https://github-profile-trophy.vercel.app/?username=vikramkumarsingh-0)](https://github.com/ryo-ma/github-profile-trophy)
-* **Streak Stats:** (Consider adding a streak stats badge if you're actively contributing to open source)
-
-
-
-
-
 
 
 

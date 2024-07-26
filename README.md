@@ -1,5 +1,5 @@
 
-Hi I'm Vikram Kumar Singh,
+Hello I'm Vikram Kumar Singh,
 
 I'm a highly motivated code explorer, passionate about bridging the gap between cloud infrastructure and data using algorithms. Adept in Python and Terraform, I'm constantly learning and building, with a keen interest in system design.
 

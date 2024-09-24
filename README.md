@@ -43,7 +43,7 @@ I'm a highly motivated code explorer, passionate about bridging the gap between 
 <br />
 
 **Interactive Badges & Stats:**
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikramkumarsingh-0)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=vikramkumarsingh-0)](https://github.com/vikramkumarsingh-0)
 
 

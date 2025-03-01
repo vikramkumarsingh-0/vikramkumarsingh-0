@@ -64,7 +64,7 @@ I'm a highly motivated code explorer, passionate about bridging the gap between 
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
 </a>
 
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/vikram-singh-9b559b153/">
+<a href="https://www.linkedin.com/in/vikramkumarsingh0/">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Vikram Singh's GitHub" height="40">
 </a>
 </p>

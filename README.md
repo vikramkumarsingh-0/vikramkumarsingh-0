@@ -60,7 +60,7 @@ I'm a highly motivated code explorer, passionate about bridging the gap between 
 
 **Connect with Me:**
 <br />
-<p><a href="https://twitter.com/https://twitter.com/Vikramksingh_/">
+<p><a href="https://x.com/Vikramksingh_">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>
 </a>
 
